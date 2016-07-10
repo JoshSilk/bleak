@@ -1,0 +1,28 @@
+# ideas
+weapons & ammo
+stats: int, str, chr, luk, dex
+race & class mixtures
+armour - overshield
+health & shield recharges
+player wanders and hides when hearing an incoming dropship (halo:ce-esque)
+meet someone to teach combat system (combat_tutorial function)
+only special blood types were cryochambered - something to find out later
+levels & xp
+random encounters while wandering - weird to implement - pokemon-esque
+must be >= certain level to fight "boss"
+mob drops
+way of reseting stats, item or option, item rare drop
+recrutment freind option y or n only give more damage and health no ofecting main story
+level stat boosts every ten levels stats dubbled
+stat incrasis thourgh wandering like devusing traps ups int fitting monsters ups str rarly
+money?
+fight template
+status affects
+player deaths send to last encampment us money for meds
+encampments checkpoint
+[JOSH]
+
+# onrelease
+bump version
+change class, username, text_speed & debug_state to blank
+[DIAMOND]
