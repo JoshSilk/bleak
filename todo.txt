@@ -20,6 +20,7 @@ fight template
 status affects
 player deaths send to last encampment us money for meds
 encampments checkpoint
+referancise to tv or other games exp;mining blown up, overshield, portal gun
 [JOSH]
 
 # onrelease
